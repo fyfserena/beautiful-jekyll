@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "yf2549@columbia.edu
+  email: "yf2549@columbia.edu"
   github: fyfserena  
   linkedin: https://www.linkedin.com/in/yingfei-fan-8899561a4/
 
