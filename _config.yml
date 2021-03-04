@@ -21,7 +21,7 @@ author: yff
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - ChatBot: "chat.html"
+    - ChatBot: "cloud-hw1-starter/chat.html"
     - Covid Vaccince Simulation: "https://www.markdowntutorial.com/"
   Resume: "resume.pdf"
 
