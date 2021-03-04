@@ -41,7 +41,7 @@ Chat Title
   position: relative;
   z-index: 2;
   background: #000;
-  color: #E99;
+  color: #fff;
   text-transform: uppercase;
   text-align: left;
   padding: 10px 10px 10px 50px;
@@ -54,7 +54,7 @@ Chat Title
   padding: 0;
 }
 .chat-title h2 {
-  color: rgba(255, 165, 0, 1);
+  color: rgba(255, 255, 255, 0.5);
   font-size: 8px;
   letter-spacing: 1px;
 }
@@ -83,8 +83,7 @@ Messages
   -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
-  color: #fff;  
-  /*for the bot text color*/
+  color: #000;
   overflow: scroll;
   position: relative;
   width: 100%;
@@ -112,7 +111,7 @@ Messages
   position: absolute;
   bottom: -15px;
   font-size: 9px;
-  color: #fff;
+  color: #000;
 }
 .messages .message::before {
   content: '';
@@ -141,7 +140,7 @@ Messages
 }
 .messages .message.message-personal {
   float: right;
-  color: ##E6E;
+  color: #fff;
   text-align: right;
   background: #000;
   border-radius: 10px 10px 0 10px;
@@ -247,7 +246,7 @@ Message Box
   border: none;
   outline: none !important;
   resize: none;
-  color: ##E6E;
+  color: #fff;
   font-size: 14px;
   height: 20px;
   margin: 0;
@@ -262,9 +261,9 @@ Message Box
   z-index: 1;
   top: 9px;
   right: 10px;
-  color: ##E6E;
+  color: #000;
   border: none;
-  background: #000;
+  background: #fff;
   font-size: 10px;
   text-transform: uppercase;
   line-height: 1;
