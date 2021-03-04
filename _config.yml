@@ -49,7 +49,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -96,7 +96,7 @@ feed_show_tags: true
 # instead of colour
 
 navbar-img: "/assets/img/omglul.jpg"
-footer-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/omglul.jpg"
 page-img: "/assets/img/omglul.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
