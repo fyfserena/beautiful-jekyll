@@ -42,5 +42,6 @@ There is one thing I don't like at the very beginning of my internship is to rem
 
 (Plus, you can choose to work for a team that building up the products that interest you. One day you can be a product manager yourself! Don't limit yourself to that tiny little screen size of codes!)
 
-
+![ca07617b5f7fb172e8af9a28ecfc9ec](https://user-images.githubusercontent.com/46977839/110259321-111dd100-7f75-11eb-8662-7ea3fd9a83ac.jpg)
+This is the gorgeous sunset we see from our office.
 
