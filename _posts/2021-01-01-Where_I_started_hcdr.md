@@ -13,13 +13,14 @@ comments: false
 
 This is where I began my journey as a data miner /not a scientist :(
 
-This is a Kaggle competition(the very first Kaggle competition) I have accomplished when I was a sophomore. Still remember clearly it was a Friday night I sat on the 4th floor stair in the dorm building waiting for my teammate to begin this whole data things. I know nothing back then. 
+This is a Kaggle competition (the very first Kaggle competition) I have accomplished when I was a sophomore. Still remember clearly it was a Friday night I sat on the 4th floor stair in the dorm building waiting for my teammate to begin this whole data things. I know nothing back then. 
 
 It feels so great to take a look back at it again! I learnt so much from dealing with really messy data in industries these years. A clean and well-prepared dataset is a bless!
 
 There are so many methods I keep reusing in almost every data-driven project I have done in the past few years. 
 
-* ###### EDA methods: missing_values_table(df) and all kinds of plots in EDAonTrainandTest.ipynb:
+
+* #### EDA methods: missing_values_table(df) and all kinds of plots in EDAonTrainandTest.ipynb:
 
 ```python
     def missing_values_table(df):
@@ -45,7 +46,8 @@ There are so many methods I keep reusing in almost every data-driven project I h
 ```
 
 
-* ###### Early stopping concept in Light Gradient boosting:
+
+* #### Early stopping concept in Light Gradient boosting:
 
   * Training until the validation error does not decrease for a specified number of iterations
 
@@ -62,26 +64,20 @@ There are so many methods I keep reusing in almost every data-driven project I h
   cv_results = lgb.cv(default_params, train_set, num_boost_round = 10000, early_stopping_rounds = 100, metrics = 'auc', nfold = N_FOLDS, seed = 42)
   ```
    
+   
 
-* ###### XGBOOST and Light GBM:
+* #### XGBOOST and Light GBM (
+  [Here is a great article!](https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/)):
 
   * Light GBM is a fast, distributed, high-performance gradient [boosting](https://courses.analyticsvidhya.com/courses/ensemble-learning-and-ensemble-learning-techniques?utm_source=blog&utm_medium=which-algorithm-takes-the-crown-light-gbm-vs-xgboost) framework based on **decision tree** algorithm.
 
   * It splits the tree leaf-wise whereas other boosting algorithms split the tree depth-wise. 
   * So when growing on the same leaf in Light GBM, the leaf-wise algorithm can reduce more loss than the depth-wise algorithm and hence results in much better accuracy.(Leaf-wise splits lead to increase in complexity and may lead to overfitting and it can be overcome by specifying another parameter max-depth which specifies the depth to which splitting will occur.)
-  * <img src="C:\Users\fyfse\AppData\Roaming\Typora\typora-user-images\image-20210306183802153.png" alt="image-20210306183802153" style="zoom:40%;" />
-
-* 
-
-  [Here is a great article!](https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/)
-
-##  
+ ![image](https://user-images.githubusercontent.com/46977839/110224956-680ca300-7eae-11eb-8952-77a6da0ba98f.png)
 
 ## Advantages of Light GBM
 
-1. **Faster training speed and higher efficiency**: Light GBM use histogram based algorithm i.e it buckets continuous feature values into discrete bins which fasten the training procedure. (Don't know what is means by "discrete bins", combine features together?
-
-   [check this](https://towardsdatascience.com/what-makes-lightgbm-lightning-fast-a27cf0d9785e))
+1. **Faster training speed and higher efficiency**: Light GBM use histogram based algorithm i.e it buckets continuous feature values into discrete bins which fasten the training procedure. (Don't know what is means by "discrete bins", combine features together? [check this](https://towardsdatascience.com/what-makes-lightgbm-lightning-fast-a27cf0d9785e))
 
 2. **Lower memory usage:** Replaces continuous values to discrete bins which result in lower memory usage.
 
