@@ -4,6 +4,7 @@ title: Where I started
 subtitle: My first Kaggle competition -- Home credit default risk (Light Gradient boosting)
 gh-repo: fyfserena/kaggle_home_credit_default_risk
 cover-img: /assets/img/hcdr.JPG
+thumbnail-img: /assets/img/hcdr.JPG
 tags: [Kaggle, data mining, fun]
 comments: false
 
