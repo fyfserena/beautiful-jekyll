@@ -2,7 +2,8 @@
 layout: post
 title: Best Summer Ever!
 subtitle: How I found an internship as an backend web developer and how it felt like?
-cover-img: /assets/img/zbcf2.JPG
+cover-img: /assets/img/zbcf2.jpg
+thumbnail-img: /assets/img/zbcf2.png
 tags: [internship, web app, software developer]
 
 ---
@@ -20,6 +21,7 @@ Sorry about my chatty personality. Here is the meat and potato. The summer after
 
 
 **How it feels like to work as a SWE (web app backend) in a tech start-up?**
+
 Short answer: best summer I've ever had! (so much fun!)
 
 Here comes to the real-world coding! It was very different from the coursework from cs61B. The first 2 weeks: 
@@ -31,7 +33,7 @@ Here comes to the real-world coding! It was very different from the coursework f
 
 But once I know how to use those software and learnt the product design detail in heart, my efficiency grew exponentially. 
 
-**Most most valuable take-off: **
+**Most most valuable take-off:**
 
 * Getting into the process of designing a product from scratch, building it, putting into to production, and getting feedback from the app users. It is literally like involving into a baby growing into an adult!
 * Nice coding style and how to code in a big project (my trick: draw a logical plot instructing myself what kinds of files need to be created in what kinds of folders, and set it to be your PC wallpaper).
