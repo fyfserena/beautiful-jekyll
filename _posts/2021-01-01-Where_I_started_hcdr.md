@@ -43,6 +43,8 @@ There are so many methods I keep reusing in almost every data-driven project I h
               " columns that have missing values.")
     # Return the dataframe with missing information
     return mis_val_table_ren_columns
+    
+    
 ```
 
 
@@ -62,6 +64,8 @@ There are so many methods I keep reusing in almost every data-driven project I h
   
   # Cross validation with early stopping
   cv_results = lgb.cv(default_params, train_set, num_boost_round = 10000, early_stopping_rounds = 100, metrics = 'auc', nfold = N_FOLDS, seed = 42)
+  
+  
   ```
    
    
@@ -72,6 +76,7 @@ There are so many methods I keep reusing in almost every data-driven project I h
   * Light GBM is a fast, distributed, high-performance gradient [boosting](https://courses.analyticsvidhya.com/courses/ensemble-learning-and-ensemble-learning-techniques?utm_source=blog&utm_medium=which-algorithm-takes-the-crown-light-gbm-vs-xgboost) framework based on **decision tree** algorithm.
 
   * It splits the tree leaf-wise whereas other boosting algorithms split the tree depth-wise. 
+  
   * So when growing on the same leaf in Light GBM, the leaf-wise algorithm can reduce more loss than the depth-wise algorithm and hence results in much better accuracy.(Leaf-wise splits lead to increase in complexity and may lead to overfitting and it can be overcome by specifying another parameter max-depth which specifies the depth to which splitting will occur.)
  ![image](https://user-images.githubusercontent.com/46977839/110224956-680ca300-7eae-11eb-8952-77a6da0ba98f.png)
 
