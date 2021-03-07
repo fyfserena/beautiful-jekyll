@@ -70,8 +70,7 @@ There are so many methods I keep reusing in almost every data-driven project I h
    
    
 
-* #### XGBOOST and Light GBM (
-  [Here is a great article!](https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/)):
+* #### XGBOOST and Light GBM ([Here is a great article!](https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/)):
 
   * Light GBM is a fast, distributed, high-performance gradient [boosting](https://courses.analyticsvidhya.com/courses/ensemble-learning-and-ensemble-learning-techniques?utm_source=blog&utm_medium=which-algorithm-takes-the-crown-light-gbm-vs-xgboost) framework based on **decision tree** algorithm.
 
