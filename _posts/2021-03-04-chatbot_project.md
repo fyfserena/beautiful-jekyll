@@ -3,6 +3,7 @@ layout: post
 title: Dining Concierge chatbot
 subtitle: cs6998 Cloud Computing and Big Data Project 1
 cover-img: /assets/img/chatbot.JPG
+thumbnail-img: /assets/img/chatbot.JPG
 tags: [aws services, web app, cs6998]
 ---
 
