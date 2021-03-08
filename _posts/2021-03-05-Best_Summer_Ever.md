@@ -17,7 +17,7 @@ I did have a plenty of coding experience in python and R before, but CS61B was t
 
 **Some digression:** I always have a hard time understanding **recursion**. I have a trick now:
 
-1. Think of if we are given the solution of a simpler scale func(n-1), how can we solve the n problem using the outcome fun(n-1)
+1. Think of if we are given the solution of a simpler scale func(n-1), how can we solve the size n problem using the outcome func(n-1)
 
 2. What the base case is?
 
