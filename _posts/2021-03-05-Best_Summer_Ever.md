@@ -48,7 +48,7 @@ Short answer: best summer I've ever had! (so much fun!)
 Here comes to the real-world coding! It was very different from the coursework from cs61B. The first 2 weeks: 
 
 * I need to spend 1/4 of my time getting familiar with product design (that is the guide of how you design your algorithm).
-* 1/4 of time dealing with all kinds of software -- Postman(for testing), Jenkins(for deploying), Dokers(for running some resources), and Git(of course).  
+* 1/4 of time dealing with all kinds of software -- Postman (for testing endpoints), Jenkins (for deploying), Dokers (for running some resources), and Git (of course).  
 * 1/4 communicating with other developers, 
 * and only 1/4 I was truly siting in front of the screen quietly writing codes (and the codes built under *Spring boot* framework so I need to learnt how to use the framework).
 
