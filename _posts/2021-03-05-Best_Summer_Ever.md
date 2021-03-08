@@ -4,7 +4,7 @@ title: Best Summer Ever!
 subtitle: How I found an internship as an backend web developer and how it felt like?
 image: 
  - "/assets/img/zbcf2.jpg" : "we are on floor 44!"
-
+thumbnail-img: /assets/img/zbcf3.jpg
 tags: [internship, web app, software developer]
 
 ---
@@ -38,7 +38,7 @@ def func(head: Node) -> Node
 
 **How I prepared for the technical interview:**
 
-Sorry about my chatty personality. Here is the meat and potato. The summer after that semester, I started finding internship as a software developer. I reviewed data structure and java language again and again. I self-learnt system design (hard and need to recite and understand) and SQL(easy). Most importantly, a bunch of Leetcode problems (I think easy and medium is enough). I failed one interview because they asked me questions about NLP and I knew nothing about it at that time. I passed another interview (1 coding + 1 technical (data structures and some machine architecture) + projects experience + 1 HR behavioral) and got the job in a startup based in Shenzhen, China. [check our apps at app store!](https://apps.apple.com/cn/developer/china-insurance-automobile-service-technology-co-ltd/id1440721843?l=en)
+Sorry about my chatty personality. Here is the meat and potato. The summer after that semester, I started finding internship as a software developer. I reviewed data structure and java language again and again. I self-learnt system design (hard and need to recite and understand) and SQL(easy). Most importantly, a bunch of Leetcode problems (I think easy and medium is enough). I failed one interview because they asked me questions about NLP and I knew nothing about it at that time. I passed another interview (1 coding + 1 technical (data structures and some machine architecture) + projects experience + 1 HR behavioral) and got the job in a startup based in Shenzhen, China. [check our apps at apple store!](https://apps.apple.com/cn/developer/china-insurance-automobile-service-technology-co-ltd/id1440721843?l=en)
 
 
 
