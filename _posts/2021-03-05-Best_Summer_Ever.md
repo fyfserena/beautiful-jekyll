@@ -4,7 +4,7 @@ title: Best Summer Ever!
 subtitle: How I found an internship as an backend web developer and how it felt like?
 cover-img: 
  - "/assets/img/zbcf2.jpg" : "we are on floor 44!"
-thumbnail-img: /assets/img/zbcf2.png
+thumbnail-img: /assets/img/zbcf2.jpg
 tags: [internship, web app, software developer]
 
 ---
