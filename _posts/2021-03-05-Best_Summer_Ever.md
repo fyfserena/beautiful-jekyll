@@ -15,7 +15,26 @@ I studied statistics and math during undergraduate and a little bit finance of c
 
 I did have a plenty of coding experience in python and R before, but CS61B was the first legit computer science course I've ever had and it was soooo fun (thank u, Prof. Hug)! I mean, designing those data structures, optimizing the runtime, and learning smart and tricky algorithms makes if the most interesting class in the world (challenging tho). I do enjoy the time our teammates and I spent days and nights in the Mottiff library working on our final project -- *Escape the Dungeon* [youtube demo](https://www.youtube.com/watch?v=ahManehiq_8) . It involved lots of brainwork, communication, and huge self-fulfillment for sure! Gosh, I missed the good old day. 
 
+**Some digression:** I always have a hard time understanding **recursion**. I have a trick now:
 
+1. Think of if we are given the solution of a simpler scale func(n-1), how can we solve the n problem using the outcome fun(n-1)
+
+2. What the base case is?
+
+   Eg. Reverse a linked list and return the new head (which is the old tail)
+
+```python
+def func(head: Node) -> Node
+	2. The base case: 
+    if head == None or head.next == None: 
+        return head
+    
+    1. If we are given func(head.next) as the reversed sub-linkedlist, we can solve the whole problem by doing
+      rest = func(head.next)
+      head.next.next = head
+      head.next = None
+      return rest  
+```
 
 **How I prepared for the technical interview:**
 
