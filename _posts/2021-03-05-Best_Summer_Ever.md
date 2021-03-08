@@ -10,7 +10,7 @@ tags: [internship, web app, software developer]
 
 **Some relevant background information about me:**
 
-I studied statistics and math during undergraduate and a little bit finance of course(every one in UIBE study in finance somehow). Back then I aimed to land a career in the quantitative finance field. However, the beautiful spring when I studied in UC, Berkeley as a visited student was when my journey as a software developer started.
+I studied statistics and math during undergraduate and a little bit finance (every one in UIBE study finance somehow). Back then I aimed to land a career in the quantitative finance field. However, the beautiful spring when I studied in UC, Berkeley as a visited student was the start time of my journey towards a software developer.
 
 I did have a plenty of coding experience in python and R before, but CS61B was the first legit computer science course I've ever had and it was soooo fun (thank u, Prof. Hug)! I mean, designing those data structures, optimizing the runtime, and learning smart and tricky algorithms makes if the most interesting class in the world (challenging tho). I do enjoy the time our teammates and I spent days and nights in the Mottiff library working on our final project -- *Escape the Dungeon* [youtube demo](https://www.youtube.com/watch?v=ahManehiq_8) . It involved lots of brainwork, communication, and huge self-fulfillment for sure! Gosh, I missed the good old day. 
 
