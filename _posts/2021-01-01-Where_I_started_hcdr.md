@@ -10,7 +10,7 @@ comments: false
 
 ---
 
-[Competition hosted at Kaggle]("https://www.kaggle.com/c/home-credit-default-risk")
+[Competition hosted at Kaggle](https://www.kaggle.com/c/home-credit-default-risk)
 
 This is where I began my journey as a data miner /not a scientist :(
 
