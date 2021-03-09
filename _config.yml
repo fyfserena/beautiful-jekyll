@@ -21,10 +21,10 @@ author: yff
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - ChatBot: "_posts/2021-03-04-chatbot_project.md"
+    - ChatBot: "https://fyfserena.github.io/2021-02-25-chatbot_project/"
     - Movie Recommendation Website: "https://github.com/fyfserena/cs4111_movie_recommendation"
     - Covid Vaccince Simulation: "https://github.com/fyfserena/covid_vaccine_simulation"
-    - (Kaggle) Home Credit Default Risk: "_posts/2021-01-01-Where_I_started_hcdr.md"
+    - (Kaggle) Home Credit Default Risk: "https://fyfserena.github.io/2021-01-01-Where_I_started_hcdr/"
   Resume: "Resume.pdf"
 
 # --- Logo --- #
