@@ -31,7 +31,7 @@ In this web app, I used so many AWS services!
 - Deploy my code using CodePipeline
 - Create a AWS CloudFormation template for the stack
 
-While building this web app, I familiar myself with
+While building this web app, I familiarized myself with
 
 CodePipeline, CloudFormation, Angular framework, REST API.
 
