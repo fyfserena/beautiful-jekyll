@@ -26,7 +26,7 @@ In this web app, I used so many AWS services!
 - Send recommendation information to user's phone via SMSmessages
 - Most importantly, IAM!!! (tons of permission policies need to set😫)
 
-While building this web app, I familiar myself with
+While building this web app, I familiarized myself with
 
 Cross-Origin Resource Sharing concept, parsing html, json format, node.js, *AWS* Command Line, NoSQL database,...
 
