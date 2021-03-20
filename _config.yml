@@ -22,6 +22,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - ChatBot: "https://fyfserena.github.io/2021-02-25-chatbot_project/"
+    - Intelligent Album: "https://fyfserena.github.io/2021-03-19-album_project/"
     - Shopping Website (Angular): "https://github.com/fyfserena/angular-projects"
     - Movie Recommendation Website: "https://github.com/fyfserena/cs4111_movie_recommendation"
     - Covid Vaccince Simulation: "https://github.com/fyfserena/covid_vaccine_simulation"
