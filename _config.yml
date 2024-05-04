@@ -47,11 +47,6 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "yf2549@columbia.edu"
-  github: fyfserena  
-  linkedin: https://www.linkedin.com/in/yingfei-fan-8899561a4/
-
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -63,8 +58,8 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  email: true
-  linkedin: true
+  email: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
